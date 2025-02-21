@@ -17,7 +17,7 @@ This application helps users manage their collectible figures. It allows adding,
 1. Clone the repository:
 
 ```bash
-  git clone <repository-url>
+  git clone https://github.com/mango20/figure-collection-manager-app.git
 ```
 
 2. Navigate to the project directory:
