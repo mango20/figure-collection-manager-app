@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Boa & Luffy Resin",
+    "price": 23,
+    "image": {
+      "uri": "https://handsomecake.com/cdn/shop/files/485D23D5-2F9C-4753-99B3-64F113A7A083.jpg?v=1729898124&width=1500"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Gear 5 Resin",
+    "price": 99,
+    "image": {
+      "uri": "https://i.ebayimg.com/images/g/ApQAAOSwShtjIsnn/s-l1200.jpg"
+    }
+  }
+]
